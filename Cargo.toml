@@ -1,2 +1,4 @@
 [workspace]
-members = ["py", "r/src/rust", "rust"]
+members = ["py", "rust"]
+
+resolver = "3"
