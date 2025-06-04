@@ -1,0 +1,6 @@
+rust/target
+r/src/rust/target/
+py/target/
+src/rust/vendor
+src/Makevars
+src/Makevars.win
